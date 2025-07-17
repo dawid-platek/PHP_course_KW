@@ -20,7 +20,7 @@ echo($usernameLen);
 $num = 12.456;
 echo("Wartość zmiennej num to: ".$num. "<br>"); // wyświetla wartość zmiennej num
 echo("Wartość zmiennej num to: $num w naszym programie. <br>"); // wyświetla wartość zmiennej num
-echo("Test łańcucha");
+echo("Test łańcucha". "<br>"); // wyświetla "Test łańcucha"
 echo("Test \" łańcucha");
 
 ?>
