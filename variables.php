@@ -27,6 +27,13 @@
     $_4sum = 45;
     $numStudentsInSchool = 300; // zmienna z wieloma słowami, używamy notacji camelCase
 
+// Zmienne opisujące samochód
+    $topSpeed = 250; // maksymalna prędkość
+    $carBrand = "BMW"; // marka samochodu
+    $carModel = "X5"; // model samochodu
+    $carProductionYear = 2020; // rok produkcji
+    $carColor = "red";
+
 
 ?>
 
